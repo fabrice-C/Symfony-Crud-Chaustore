@@ -1,12 +1,11 @@
-# Formation Simplon - Projet : Chaustore V3 - Symfony
+# Formation Simplon - Projets : Chaustore V3 V4- Symfony
 > Redévelopper le **back-office de Chaustore V1** avec ***Symfony***.
+> Développer une partie du **front office d'un site e-commerce** de vente de chaussures en utilisant le **Framework Symfony**.
 
 > Manage a **crud** in Symfony for database Chaustore. 
 
-
 This existing database (version 1) is composed of 6 tables : Brand, Category, Color, Size, Product and Stock. 
 Rem : 'Stock' table is composed of two foreign keys. 
-
 
 ### Livrables :
 
@@ -43,5 +42,7 @@ Vous ne devez utiliser aucun module / bundle supplémentaire (hors Symfony).
 
 
 ```md 
-rem : this project is not finished : CRUD for stock and confirmation for deletion not done. 
-I put in the project all details that I use to do this project in a PDF File. Thanks.
+rem : this project is not finished : 
+- CRUD for stock and confirmation for deletion not done. 
+- V4 Front office not done.
+I put in the project all details that I use to do this project (V3) in a PDF File. Thanks.
