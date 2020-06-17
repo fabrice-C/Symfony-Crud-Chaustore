@@ -2,7 +2,7 @@
 > Redévelopper le **back-office de Chaustore V1** avec ***Symfony***.
 > Développer une partie du **front office d'un site e-commerce** de vente de chaussures en utilisant le **Framework Symfony**.
 
-> Manage a **crud** in Symfony for database Chaustore. 
+**Manage a crud** in Symfony for database Chaustore.
 
 This existing database (version 1) is composed of 6 tables : Brand, Category, Color, Size, Product and Stock. 
 Rem : 'Stock' table is composed of two foreign keys. 
@@ -41,7 +41,7 @@ Vous devez utiliser **Symfony Maker** pour réaliser ce projet.
 Vous ne devez utiliser aucun module / bundle supplémentaire (hors Symfony).
 
 
-```md 
+```cs 
 rem : this project is not finished : 
 - CRUD for stock and confirmation for deletion not done. 
 - V4 Front office not done.
