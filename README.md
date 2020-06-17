@@ -44,4 +44,4 @@ Vous ne devez utiliser aucun module / bundle supplémentaire (hors Symfony).
 
 ```md 
 rem : this project is not finished : CRUD for stock and confirmation for deletion not done. 
-I put in the project all details that I use to do this project in a PDF File. Thanks.```
+I put in the project all details that I use to do this project in a PDF File. Thanks.`
